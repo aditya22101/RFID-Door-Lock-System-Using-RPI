@@ -1,0 +1,13 @@
+ DESIGN AND WORKING PRINCIPLE 
+RFID technology utilizes electromagnetic fields to automatically identify and track tags attached to Ras-pi and Servo motor. These tags contain unique identifiers that can 
+be read wirelessly by RFID readers. By incorporating RFID technology into door lock systems, it becomes possible to Parts enhance security, streamline access control processes, 
+and improve overall convenience.
+Components Required
+ Raspberry Pi
+ GPIO Extension
+ LCD Display
+ I2C Module
+ RFID Card
+ RFID Module
+ Servo Motor
+ Buzzer
